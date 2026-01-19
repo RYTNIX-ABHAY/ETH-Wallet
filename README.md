@@ -27,5 +27,3 @@ This project demonstrates how Ethereum wallets work internally, including **mnem
 
 ---
 
-## 📂 Project Structure
-
